@@ -6,7 +6,9 @@ This is the repository for paper of IGCC, we are working on cleaning up the code
 ![Image text](https://github.com/Tianyangg/IGGC/blob/80b0451eb66fcfaa8a52f8de7b8f2659b8cafab0/figures/graphical%20abstract.png)
 
 # Brief summary of our work
-**Motivation:** To enhance Intraoperative Glioma Grading with Computer Aided Diagnosis.
+**Motivation:** 
+
+To enhance Intraoperative Glioma Grading with Computer Aided Diagnosis.
 
 **Summary:**
 

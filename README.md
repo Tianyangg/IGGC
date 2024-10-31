@@ -3,7 +3,8 @@ IGCC: Intraoperative Glioma Grading via Deep Learning on Cryosectioned Pathology
 
 This is the repository for paper of IGCC, we are working on cleaning up the code for consise and clarity iteratively.
 # Graphical Abstraction
-![Image text](figures/graphical abstract.png)
+![Image text](https://github.com/Tianyangg/IGGC/blob/80b0451eb66fcfaa8a52f8de7b8f2659b8cafab0/figures/graphical%20abstract.png)
+
 # Brief summary of our work
 **Motivation:** To enhance Intraoperative Glioma Grading with Computer Aided Diagnosis.
 

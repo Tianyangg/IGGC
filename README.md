@@ -12,7 +12,7 @@ To enhance Intraoperative Glioma Grading with Computer Aided Diagnosis.
 
 **Summary:**
 
-We addressed the problem of ambiguity in intraoperative frozen pathological grading of gliomas, where clinicians typically categorize tumors broadly such as low-grade gliomas, or grade II and above due to limited clarity. To tackle this issue, we proposed a practical method to assist in WHO grading during surgery by employing partial weak supervision combined with Multiple Instance Learning (MIL) for slide-level classification.
+We addressed the problem of ambiguity in intraoperative frozen pathological grading of gliomas, where clinicians typically categorize tumors broadly such as low-grade gliomas, or grade II and above due to limited clarity. To tackle this issue, we proposed a practical method to assist in WHO grading during surgery by employing weakly supervision combined with Multiple Instance Learning (MIL) for slide-level classification.
 
 In our proof-of-concept study, we conducted experiments involving pathologists who performed diagnoses both without assistance and with the aid of IGGC. The results demonstrated that the model effectively helps pathologists achieve diagnostic outcomes that are closer to the postoperative gold standard.
 

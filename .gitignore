@@ -1,0 +1,60 @@
+# project folders
+project/
+x64/
+
+# build folders
+*build*/
+
+# folder to ignore
+/bin
+/lib
+/include
+/tmp
+/dist
+/*.egg-info
+/md_mibrain/lib
+/md_mibrain/cmake/*.cmake
+.eggs
+/package
+__pycache__
+doc/
+CMakeFiles/
+ITKFactoryRegistration/
+
+# vscode
+.vscode/
+.cache
+
+# pycharm project files
+.idea/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.pyc
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
